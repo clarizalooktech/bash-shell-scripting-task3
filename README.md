@@ -1,1 +1,1 @@
-1. This project is to demonstrate my skills in shell/bash scripting. Refer to "gettrainstop.sh" for the shell script.
+1. This project is to demonstrate my skills in shell/bash scripting. Refer to "gettrainstop.sh" for the shell script. Developed a train rider solution from scratch using BASH scripts on shell (on a Linux environment) which extracts live public transport data from external sources. 
