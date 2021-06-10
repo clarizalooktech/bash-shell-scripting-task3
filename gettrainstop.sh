@@ -4,8 +4,6 @@
 #Created using: Windows 10 Home WSL 
 #Task: Determine if your location is within one kilometre of a train station, and then 
 #......determine the sequence of times and train stations required to get you to the ferry terminal.
-#Sample input: ./gettrainstop.sh -32.062231 115.953581
-#   ...Please give my program about 10 mins to process all data
 # 	Input Location: 93 Hume Road, Thornlie (-32.062231 115.953581) in Google Maps
 # 	Other test input location: 420 Joondalup Dr, (-31.745001, 115.769476; 54 Blackadder Rd Swan View (-31.879957, 116.035971)
 # 	Destination: Rottness Island (-31.996790, 115.540240)
